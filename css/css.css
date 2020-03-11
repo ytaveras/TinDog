@@ -1,0 +1,172 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Kaushan Script', cursive;
+  /* font-family: 'Sacramento', cursive; */
+  margin-top: 50px auto 0 auto;
+  font-size: 90px;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  color: #66BFBF;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10PX;
+}
+
+h3 {
+  font-family: 'Shadows Into Light', cursive;
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-family: 'Sacramento', cursive;  */
+  color: #11999E;
+  font-size: 30px;
+}
+
+p {
+  /* font-family: 'Shadows Into Light', cursive; */
+  font-family: 'Marck Script', cursive;
+  font-size: 24px;
+}
+
+hr{
+  border: dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+  /* font-size: 18px; */
+}
+
+.h2 {
+  font-weight: normal;
+}
+
+.pf {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 24px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  /* position: relative; */
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+
+.middle-cloud {
+  position: relative;
+  left: 0;
+}
+
+.botton-cloud {
+  position: relative;
+  right: 300px;
+}
+
+.montain {
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.la {
+  text-align: left;
+}
+
+.skill1-img, .skill3-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.myButton {
+	box-shadow: 0px 0px 28px 5px #9fb4f2;
+	background:linear-gradient(to bottom, #11999e 5%, #1a3557 100%);
+	background-color:#11999e;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 31px;
+	text-decoration:none;
+	text-shadow:0px 0px 15px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #1a3557 5%, #11999e 100%);
+	background-color:#1a3557;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+/* img{
+  position: relative;
+  left: 100px;
+} */
